@@ -1,0 +1,17 @@
+{
+  "_comment": "Public, anonymized preferences used to build the published page. Names, notes and local paths are intentionally omitted. Edit dislikes/favorites/caps to change the plan.",
+  "members": [
+    {"role": "weight_gain", "sex": "male", "height_cm": 175, "weight_kg": 73, "activity": "light"},
+    {"role": "breastfeeding", "sex": "female"}
+  ],
+  "diet": {
+    "halal_only": true,
+    "dairy_ok": true,
+    "cook_time": "low",
+    "style": "modern_mix",
+    "include_fish": true
+  },
+  "favorites": [],
+  "dislikes": ["berkoukes", "leben"],
+  "monthly_caps": {"msemen": 1}
+}
